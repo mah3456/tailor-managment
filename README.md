@@ -1,4 +1,4 @@
-# **تطبيق إدارة الخياطين (Tailor Management System) 🧵📱**
+<img width="1466" height="3101" alt="add_customer" src="https://github.com/user-attachments/assets/bade8f90-36f9-4d02-906f-602bd7c35bd3" /><img width="1466" height="3101" alt="add_customer" src="https://github.com/user-attachments/assets/6d74e067-bd63-4e07-92e5-d73665ad7a8f" /># **تطبيق إدارة الخياطين (Tailor Management System) 🧵📱**
 
 تطبيق Flutter متكامل لإدارة عملاء الخياطين، قطع العملاء، والمزامنة السحابية مع نظام المصادقة الحيوية.
 
@@ -11,7 +11,8 @@
 
 | الشاشة الرئيسية | إضافة عميل | تفاصيل العميل | إدارة القطع |
 |----------------|-----------|--------------|------------|
-| ![Home](https://via.placeholder.com/300x600/4F46E5/FFFFFF?text=Home+View) | ![Add Customer](https://via.placeholder.com/300x600/10B981/FFFFFF?text=Add+Customer) | ![Customer Details](https://via.placeholder.com/300x600/8B5CF6/FFFFFF?text=Customer+Details) | ![Manage Pieces](https://via.placeholder.com/300x600/F59E0B/FFFFFF?text=Manage+Pieces) |
+| ![Home](https://via.placeholder.com/300x600/4F46E5/FFFFFF?text=Home+View) |  <img width="1466" height="3101" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" />
+| ![Customer Details](https://via.placeholder.com/300x600/8B5CF6/FFFFFF?text=Customer+Details) | ![Manage Pieces](https://via.placeholder.com/300x600/F59E0B/FFFFFF?text=Manage+Pieces) |
 
 | المصادقة بالبصمة | النسخ الاحتياطي | المدفوعات | الإعدادات |
 |-----------------|----------------|-----------|----------|
