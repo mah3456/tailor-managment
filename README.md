@@ -11,9 +11,7 @@
 
 | الشاشة الرئيسية | إضافة عميل | تفاصيل العميل | اضافة قطعه |
 |----------------|-----------|--------------|------------|
-| <img width="130" height="250" alt="home_screen" src="https://github.com/user-attachments/assets/2c727200-ba68-48d9-89b5-c2ba38240ede" />|
-|  <img width="120" height="250" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" />|
-| <img width="130" height="250" alt="customer_details" src="https://github.com/user-attachments/assets/6d6ccfbc-7bc9-4395-9960-b14802c85693" />|
+| <img width="130" height="250" alt="home_screen" src="https://github.com/user-attachments/assets/2c727200-ba68-48d9-89b5-c2ba38240ede" /> |  <img width="120" height="250" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" /> | <img width="130" height="250" alt="customer_details" src="https://github.com/user-attachments/assets/6d6ccfbc-7bc9-4395-9960-b14802c85693" />|
 
 | المصادقة بالبصمة | النسخ الاحتياطي | المدفوعات | الإعدادات |
 |-----------------|----------------|-----------|----------|
