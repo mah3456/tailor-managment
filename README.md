@@ -17,8 +17,7 @@
 
 | المصادقة بالبصمة | النسخ الاحتياطي | المدفوعات | الإعدادات |
 |-----------------|----------------|-----------|----------|
-| <img width="130" height="250" alt="auth_screen" src="https://github.com/user-attachments/assets/e8b308d0-4c75-4ca0-8759-359b63be1515" />
- | ![Backup]  <img width="130" height="250" alt="backup_screen" src="https://github.com/user-attachments/assets/cb7dba5e-596d-4f40-8032-da2f65bc92ea" />
+| <img width="130" height="250" alt="auth_screen" src="https://github.com/user-attachments/assets/e8b308d0-4c75-4ca0-8759-359b63be1515" />| ![Backup]  <img width="130" height="250" alt="backup_screen" src="https://github.com/user-attachments/assets/cb7dba5e-596d-4f40-8032-da2f65bc92ea" />
 | ![Payments](https://via.placeholder.com/300x600/EC4899/FFFFFF?text=Payments) | ![Settings](https://via.placeholder.com/300x600/6B7280/FFFFFF?text=Settings) |
 
 ## ✨ الميزات الرئيسية
