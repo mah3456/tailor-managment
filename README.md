@@ -11,12 +11,11 @@
 
 | الشاشة الرئيسية | إضافة عميل | تفاصيل العميل | اضافة قطعه |
 |----------------|-----------|--------------|------------|
-| <img width="130" height="250" alt="home_screen" src="https://github.com/user-attachments/assets/2c727200-ba68-48d9-89b5-c2ba38240ede" /> |  <img width="120" height="250" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" /> | <img width="130" height="250" alt="customer_details" src="https://github.com/user-attachments/assets/6d6ccfbc-7bc9-4395-9960-b14802c85693" />|
+| <img width="130" height="250" alt="home_screen" src="https://github.com/user-attachments/assets/2c727200-ba68-48d9-89b5-c2ba38240ede" /> |  <img width="120" height="250" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" /> | <img width="130" height="250" alt="customer_details" src="https://github.com/user-attachments/assets/6d6ccfbc-7bc9-4395-9960-b14802c85693" />| <img width="130" height="250" alt="add_piece" src="https://github.com/user-attachments/assets/941d73bf-5680-4c43-bce2-521b5f5b7681" />
 
-| المصادقة بالبصمة | النسخ الاحتياطي | المدفوعات | الإعدادات |
+| المصادقة بالبصمة | النسخ الاحتياطي ||
 |-----------------|----------------|-----------|----------|
-| <img width="130" height="250" alt="auth_screen" src="https://github.com/user-attachments/assets/e8b308d0-4c75-4ca0-8759-359b63be1515" />| ![Backup]  <img width="130" height="250" alt="backup_screen" src="https://github.com/user-attachments/assets/cb7dba5e-596d-4f40-8032-da2f65bc92ea" />
-| ![Payments](https://via.placeholder.com/300x600/EC4899/FFFFFF?text=Payments) | ![Settings](https://via.placeholder.com/300x600/6B7280/FFFFFF?text=Settings) |
+| <img width="130" height="250" alt="auth_screen" src="https://github.com/user-attachments/assets/e8b308d0-4c75-4ca0-8759-359b63be1515" />| <img width="130" height="250" alt="backup_screen" src="https://github.com/user-attachments/assets/cb7dba5e-596d-4f40-8032-da2f65bc92ea" /> | ![Settings](https://via.placeholder.com/300x600/6B7280/FFFFFF?text=Settings) |
 
 ## ✨ الميزات الرئيسية
 
