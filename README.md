@@ -11,7 +11,8 @@
 
 | الشاشة الرئيسية | إضافة عميل | تفاصيل العميل | إدارة القطع |
 |----------------|-----------|--------------|------------|
-| ![Home](https://via.placeholder.com/300x600/4F46E5/FFFFFF?text=Home+View) |  <img width="1466" height="3101" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" />
+| ![Home](https://via.placeholder.com/300x600/4F46E5/FFFFFF?text=Home+View) |  <img width="120" height="200" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" />
+
 | ![Customer Details](https://via.placeholder.com/300x600/8B5CF6/FFFFFF?text=Customer+Details) | ![Manage Pieces](https://via.placeholder.com/300x600/F59E0B/FFFFFF?text=Manage+Pieces) |
 
 | المصادقة بالبصمة | النسخ الاحتياطي | المدفوعات | الإعدادات |
