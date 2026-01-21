@@ -9,17 +9,16 @@
 
 ## 📸 لقطات التطبيق
 
-| الشاشة الرئيسية | إضافة عميل | تفاصيل العميل | إدارة القطع |
+| الشاشة الرئيسية | إضافة عميل | تفاصيل العميل |
 |----------------|-----------|--------------|------------|
-| <img width="120" height="220" alt="home_screen" src="https://github.com/user-attachments/assets/2c727200-ba68-48d9-89b5-c2ba38240ede" />] 
-|  <img width="120" height="200" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" />
-
-| ![Customer Details]  <img width="1466" height="3101" alt="customer_details" src="https://github.com/user-attachments/assets/6d6ccfbc-7bc9-4395-9960-b14802c85693" />
-| ![Manage Pieces](https://via.placeholder.com/300x600/F59E0B/FFFFFF?text=Manage+Pieces) |
+| <img width="130" height="250" alt="home_screen" src="https://github.com/user-attachments/assets/2c727200-ba68-48d9-89b5-c2ba38240ede" />] 
+|  <img width="120" height="250" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" />
+| <img width="130" height="250" alt="customer_details" src="https://github.com/user-attachments/assets/6d6ccfbc-7bc9-4395-9960-b14802c85693" />
 
 | المصادقة بالبصمة | النسخ الاحتياطي | المدفوعات | الإعدادات |
 |-----------------|----------------|-----------|----------|
-| ![Fingerprint](https://via.placeholder.com/300x600/EF4444/FFFFFF?text=Fingerprint+Auth) | ![Backup](https://via.placeholder.com/300x600/3B82F6/FFFFFF?text=Cloud+Backup) | ![Payments](https://via.placeholder.com/300x600/EC4899/FFFFFF?text=Payments) | ![Settings](https://via.placeholder.com/300x600/6B7280/FFFFFF?text=Settings) |
+| <img width="130" height="250" alt="auth_screen" src="https://github.com/user-attachments/assets/e8b308d0-4c75-4ca0-8759-359b63be1515" />
+ | ![Backup](https://via.placeholder.com/300x600/3B82F6/FFFFFF?text=Cloud+Backup) | ![Payments](https://via.placeholder.com/300x600/EC4899/FFFFFF?text=Payments) | ![Settings](https://via.placeholder.com/300x600/6B7280/FFFFFF?text=Settings) |
 
 ## ✨ الميزات الرئيسية
 
