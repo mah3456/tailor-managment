@@ -15,7 +15,8 @@
 
 | المصادقة بالبصمة | النسخ الاحتياطي |تسديد قطعه ||
 |-----------------|----------------|-----------|----------|
-| <img width="130" height="250" alt="auth_screen" src="https://github.com/user-attachments/assets/e8b308d0-4c75-4ca0-8759-359b63be1515" />| <img width="130" height="250" alt="backup_screen" src="https://github.com/user-attachments/assets/cb7dba5e-596d-4f40-8032-da2f65bc92ea" /> | ![Uploading pay_piece.png…]()
+| <img width="130" height="250" alt="auth_screen" src="https://github.com/user-attachments/assets/e8b308d0-4c75-4ca0-8759-359b63be1515" />| <img width="130" height="250" alt="backup_screen" src="https://github.com/user-attachments/assets/cb7dba5e-596d-4f40-8032-da2f65bc92ea" /> | <img width="130" height="250" alt="pay_piece" src="https://github.com/user-attachments/assets/8a2f103c-9ff6-43bb-b899-775721e0b7ab" />
+
 
 
 
