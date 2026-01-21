@@ -11,10 +11,11 @@
 
 | الشاشة الرئيسية | إضافة عميل | تفاصيل العميل | إدارة القطع |
 |----------------|-----------|--------------|------------|
-| ![Home ] <img width="120" height="220" alt="home_screen" src="https://github.com/user-attachments/assets/2c727200-ba68-48d9-89b5-c2ba38240ede" />
-] |  <img width="120" height="200" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" />
+| <img width="120" height="220" alt="home_screen" src="https://github.com/user-attachments/assets/2c727200-ba68-48d9-89b5-c2ba38240ede" />] 
+|  <img width="120" height="200" alt="add_customer" src="https://github.com/user-attachments/assets/56b91f27-cf80-4bdb-a6f2-86930acfe947" />
 
-| ![Customer Details](https://via.placeholder.com/300x600/8B5CF6/FFFFFF?text=Customer+Details) | ![Manage Pieces](https://via.placeholder.com/300x600/F59E0B/FFFFFF?text=Manage+Pieces) |
+| ![Customer Details]  <img width="1466" height="3101" alt="customer_details" src="https://github.com/user-attachments/assets/6d6ccfbc-7bc9-4395-9960-b14802c85693" />
+| ![Manage Pieces](https://via.placeholder.com/300x600/F59E0B/FFFFFF?text=Manage+Pieces) |
 
 | المصادقة بالبصمة | النسخ الاحتياطي | المدفوعات | الإعدادات |
 |-----------------|----------------|-----------|----------|
